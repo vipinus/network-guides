@@ -25,7 +25,7 @@
 ## 延伸阅读
 
 - [五种接入方式怎么选](02-choose-your-connection-method.md)
-- [连不上、慢、断线的排查清单](04-troubleshooting-checklist.md)
+- [连不上、慢、断线的排查清单](https://github.com/vipinus/troubleshooting-guides/blob/main/01-cannot-connect-slow-drops.md)
 
 ---
 由 [蓝盾](https://7d24hrs.com) 团队整理 · 有问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效

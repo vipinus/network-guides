@@ -12,7 +12,7 @@
 
 ## 怎么选，按这个顺序问自己
 
-1. **是不是整个家都要用？** 是 → 直接看[路由器分流](03-router-split-routing.md)，设备端什么都不用装。
+1. **是不是整个家都要用？** 是 → 直接看[路由器分流](https://github.com/vipinus/router-guides/blob/main/03-router-split-routing.md)，设备端什么都不用装。
 2. **设备能装第三方应用吗？** 不能（公司电脑、受管 iPhone）→ 思科或网页代理。
 3. **想要一次配置永远在线？** 是 → 私网。
 4. **网络环境差、经常断？** 是 → sing-box。
