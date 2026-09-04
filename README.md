@@ -25,6 +25,8 @@
 | [05 · iOS 装不了应用怎么办](guides/05-ios-app-store-region.md) | Apple ID 地区限制的两种解法 | iPhone 用户 |
 | [06 · Telegram 与 Discord 的安装](guides/06-install-telegram-discord.md) | 各平台安装包、安卓拆分包的处理 | 想进群的人 |
 
+姊妹仓库：[回国访问指南](https://github.com/vipinus/huiguo-guides)（看国内视频、政务网站、网银支付等需要中国 IP 的场景）。
+
 ## 联系
 
 上面「长期福利」里的两条随时有效，邀请奖励可以累加，不设上限。
