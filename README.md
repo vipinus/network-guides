@@ -16,11 +16,11 @@
 
 | 篇 |
 |---|
-| [01 · 01 · 回国访问是怎么回事](01-why-china-services-block-overseas.md) |
-| [02 · 02 · 选择哪种连接方式](02-choose-your-connection-method.md) |
-| [03 · 03 · 私网（Tailscale）和 VPN 的区别，什么时候该用它](03-private-network-vs-vpn.md) |
-| [04 · 04 · 我们和其他 VPN 的区别](04-why-us.md) |
-| [05 · 05 · 如何识别有风险的 VPN 软件](05-risky-vpn-apps.md) |
+| [01 · 回国访问是怎么回事](01-why-china-services-block-overseas.md) |
+| [02 · 选择哪种连接方式](02-choose-your-connection-method.md) |
+| [03 · 私网（Tailscale）和 VPN 的区别，什么时候该用它](03-private-network-vs-vpn.md) |
+| [04 · 我们和其他 VPN 的区别](04-why-us.md) |
+| [05 · 如何识别有风险的 VPN 软件](05-risky-vpn-apps.md) |
 
 每篇文章同时发在本仓库的 Discussions 里，可以直接回复提问。
 
