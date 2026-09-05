@@ -18,6 +18,7 @@
 |---|
 | [01 · 回国访问是怎么回事](01-why-china-services-block-overseas.md) |
 | [02 · 五种接入方式怎么选](02-choose-your-connection-method.md) |
+| [05 · 私网（Tailscale）和 VPN 的区别，什么时候该用它](05-private-network-vs-vpn.md) |
 
 原 03（AnyConnect 在中国）已迁到 [chuhai-guides](https://github.com/vipinus/chuhai-guides/blob/main/02-anyconnect-in-china.md)，原 04（sing-box 三种链接）已迁到 [client-guides](https://github.com/vipinus/client-guides/blob/main/02-singbox-subscription-links.md)。
 
@@ -30,7 +31,7 @@
 | [huiguo-guides](https://github.com/vipinus/huiguo-guides) | 回国访问场景：看国内视频、政务网站、网银支付、音乐、游戏 |
 | [chuhai-guides](https://github.com/vipinus/chuhai-guides) | 出海访问场景：在国内用海外的办公、开发、学术、游戏、影音服务 |
 | [network-guides](https://github.com/vipinus/network-guides) | 网络原理与接入方式怎么选 |
-| [client-guides](https://github.com/vipinus/client-guides) | 客户端安装与设置：AnyConnect、sing-box/Hiddify、OpenVPN、网页代理 |
+| [client-guides](https://github.com/vipinus/client-guides) | 客户端安装与设置：AnyConnect、sing-box/Hiddify、OpenVPN、网页代理、私网 Tailscale |
 | [router-guides](https://github.com/vipinus/router-guides) | 路由器与家庭网络：分流、电视、刷固件、绑定 |
 | [troubleshooting-guides](https://github.com/vipinus/troubleshooting-guides) | 排障与安装：连不上、看不了、装不上 |
 
