@@ -18,6 +18,8 @@
 |---|
 | [01 · 回国访问是怎么回事](01-why-china-services-block-overseas.md) |
 | [02 · 五种接入方式怎么选](02-choose-your-connection-method.md) |
+| [03 · 思科 AnyConnect 在中国能用吗](03-anyconnect-in-china.md) |
+| [04 · sing-box 订阅链接、导入链接、分享链接是什么](04-singbox-subscription-links.md) |
 
 每篇文章同时发在本仓库的 Discussions 里，可以直接回复提问。
 
