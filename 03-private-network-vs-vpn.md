@@ -1,4 +1,6 @@
-# 05 · 私网（Tailscale）和 VPN 的区别，什么时候该用它
+# 03 · 私网（Tailscale）和 VPN 的区别，什么时候该用它
+
+> 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/tailscale-mesh
 
 私网栏目用的是 Tailscale：基于 WireGuard 的组网工具，蓝盾自己运行控制服务器，你用本站账号登录。它和 AnyConnect、OpenVPN 这类「连接型」VPN 不是一回事。
 
