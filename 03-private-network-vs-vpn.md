@@ -6,7 +6,7 @@
 
 ## 三个区别
 
-| | 连接型 VPN（AnyConnect / OpenVPN / sing-box） | 私网（Tailscale） |
+| | 连接型 VPN（AnyConnect / OpenVPN / Hiddify） | 私网（Tailscale） |
 |---|---|---|
 | 连接 | 每次点连接，掉线要重连 | 登录一次一直在线，换网络自动恢复 |
 | 出口 | 连上就是全部流量走出口 | 出口可选：不选时公网流量走本地，只有私网内设备间的流量加密；选了某地区出口才等于 VPN |
@@ -20,7 +20,7 @@
 
 ## 不该用它的情况
 
-- 只想临时用一次：扫码导入 sing-box 或装 AnyConnect 更快。
+- 只想临时用一次：扫码导入 Hiddify 或装 AnyConnect 更快。
 - 设备上已经跑着公司 VPN 或别的组网软件：两者争 DNS 和路由，症状是看国内视频提示版权、公司内网打不开。用网页代理这种只影响浏览器的方式。
 - 校园网 / 公司网限制 UDP：WireGuard 走 UDP，只能靠中继，慢；换 AnyConnect。
 
