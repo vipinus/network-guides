@@ -21,6 +21,8 @@
 | [03 · 私网（Tailscale）和 VPN 的区别，什么时候该用它](03-private-network-vs-vpn.md) |
 | [04 · 我们和其他 VPN 的区别](04-why-us.md) |
 | [05 · 如何识别有风险的 VPN 软件](05-risky-vpn-apps.md) |
+| [06 · 为什么有时候快、有时候慢](06-why-sometimes-fast-sometimes-slow.md) |
+| [07 · 什么时候你其实不需要我们](07-when-you-do-not-need-us.md) |
 
 每篇文章同时发在本仓库的 Discussions 里，可以直接回复提问。
 
