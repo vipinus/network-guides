@@ -35,7 +35,7 @@
 | [huiguo-guides](https://github.com/vipinus/huiguo-guides) | 回国访问场景：看国内视频、政务网站、网银支付、音乐、游戏、看家里监控、验证码与国内手机号、留学生、出差旅行、线路怎么选、免费还是付费 |
 | [chuhai-guides](https://github.com/vipinus/chuhai-guides) | 出海访问场景：哪些服务要海外 IP、AnyConnect 在中国、选地区、公司电脑、Linux 与命令行、NAS 走线路 |
 | [network-guides](https://github.com/vipinus/network-guides) | 原理与选型：回国访问是怎么回事、六种接入方式怎么选、私网和 VPN 的区别、我们和其他 VPN 的区别、识别有风险的 VPN 软件、账号三档与付款、设备不够怎么加 |
-| [client-guides](https://github.com/vipinus/client-guides) | 客户端安装与设置：AnyConnect、Hiddify、网页代理扩展、OpenVPN、私网 Tailscale、iOS 装应用、Telegram 与 Discord、多设备、Hiddify 各平台安装 |
+| [client-guides](https://github.com/vipinus/client-guides) | 客户端安装与设置：AnyConnect、Hiddify、网页代理扩展、OpenVPN、私网 Tailscale、iOS 装应用、Telegram 与 Discord、多设备、Hiddify 各平台安装、Dropbox 等软件怎么走代理 |
 | [router-guides](https://github.com/vipinus/router-guides) | 路由器与家庭网络：预装上手、刷固件、分流、电视与老人、绑定换机、解锁国内视频、选型号、固件能做什么、真假分流怎么分辨 |
 | [troubleshooting-guides](https://github.com/vipinus/troubleshooting-guides) | 排障：连不上/慢/断线、开了回国还是不能看、IPv6 与 DNS 漏网、流量伪装导入了连不上、怎么联系我们、怎么确认已连上、远程协助 |
 
