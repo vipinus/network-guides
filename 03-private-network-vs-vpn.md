@@ -2,7 +2,7 @@
 
 > 网站版（更长、含繁体与英文）：https://7d24hrs.com/zh-CN/guides/tailscale-mesh
 
-私网栏目用的是 Tailscale：基于 WireGuard 的组网工具，蓝盾自己运行控制服务器，你用本站账号登录。它和 AnyConnect、OpenVPN 这类「连接型」VPN 不是一回事。
+私网栏目用的是 Tailscale：基于 WireGuard 的组网工具，蓝诺自己运行控制服务器，你用本站账号登录。它和 AnyConnect、OpenVPN 这类「连接型」VPN 不是一回事。
 
 ## 三个区别
 
@@ -31,4 +31,4 @@
 安装与登录步骤见 [客户端指南 05](https://github.com/vipinus/client-guides/blob/main/05-tailscale-private-network.md)。
 
 ---
-由 [蓝盾](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
+由 [蓝诺](https://7d24hrs.com) 团队整理 · 问题来 [Telegram 群](https://t.me/+NWJN_9yITj9kOWFh) · 注册领 24 小时免费试用，邀请朋友每位送 30 天，长期有效
