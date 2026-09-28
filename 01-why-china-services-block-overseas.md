@@ -24,7 +24,7 @@
 
 ## 延伸阅读
 
-- [选择哪种连接方式](https://github.com/vipinus/network-guides/blob/main/02-choose-your-connection-method.md)
+- [各种连接方式适用的场景](https://github.com/vipinus/network-guides/blob/main/02-choose-your-connection-method.md)
 - [连不上、慢、断线的排查清单](https://github.com/vipinus/troubleshooting-guides/blob/main/01-cannot-connect-slow-drops.md)
 
 ---

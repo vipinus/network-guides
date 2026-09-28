@@ -33,7 +33,7 @@
 
 私网（Tailscale）登录一次永远在线、菜单里换地区；思科 AnyConnect 兼容性最好、系统自带或官方客户端；专网 OpenVPN 给路由器、NAS、Linux；网页代理只让浏览器走、不掉线；流量伪装 Hiddify 抗丢包、速度最好；路由器整机接入给电视、盒子和老人的设备。
 
-没有一种方式在所有网络下都最优，所以我们不锁定你用哪种：同一个账号随时换，校园网限 UDP 就从 Hiddify 换到 AnyConnect，宽带抖动就换网页代理。怎么挑见《选择哪种连接方式》。
+没有一种方式在所有网络下都最优，所以我们不锁定你用哪种：同一个账号随时换，校园网限 UDP 就从 Hiddify 换到 AnyConnect，宽带抖动就换网页代理。怎么挑见《各种连接方式适用的场景》。
 
 ## 账号规则里的利与害
 
@@ -63,7 +63,7 @@
 
 ## 延伸阅读
 
-- [选择哪种连接方式](https://7d24hrs.com/zh-CN/guides/choose-connection)
+- [各种连接方式适用的场景](https://7d24hrs.com/zh-CN/guides/choose-connection)
 - [如何识别有风险的 VPN 软件](https://7d24hrs.com/zh-CN/guides/risky-vpn-apps)
 - [回国 VPN 免费还是付费](https://7d24hrs.com/zh-CN/guides/free-vs-paid)
 - [关于我们：怎么建、记录什么](https://7d24hrs.com/zh-CN/about)
